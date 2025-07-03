@@ -1,5 +1,5 @@
 # WDD130-Tranquill
-Final project for WD130
+Final project for WDD130
 
 Connor - Please do the projects page, where you will be organizing Chloe's art. We haven't received much of it, but I will reach out to get more
 
