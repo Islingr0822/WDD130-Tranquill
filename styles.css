@@ -161,6 +161,15 @@ footer {
     line-height: 1.6;
 }
 
+#artProjects {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#drawing {
+    margin: auto;
+}
+
 @media (max-width: 767px) {
     .container {
         flex-direction: column;
